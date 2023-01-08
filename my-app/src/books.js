@@ -4,15 +4,15 @@ import img3 from './images/book-3.jpg';
 
 export const books = [
   {
-    author: 'Robert Greene',
-    title: 'The 48 Laws of Power',
-    img: img2,
-    id: 1,
-  },
-  {
     author: 'James Clear',
     title: 'Atomic Habits',
     img: img1,
+    id: 1,
+  },
+  {
+    author: 'Robert Greene',
+    title: 'The 48 Laws of Power',
+    img: img2,
     id: 2,
   },
   {
